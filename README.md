@@ -1,4 +1,4 @@
-# Fibonacci Sequence
+# Fibonacci Sequence Generator
 This is my commit about the Fibonacci Sequence!
 
 As I am a new student of software development, I choose this topic (Fibonacci Sequence) as my first challenge to create a program that can generate and store all numbers from the Fibonacci sequence.
